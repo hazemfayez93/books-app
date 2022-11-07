@@ -52,7 +52,7 @@ const Navbar = () => {
             </li>
             <li className="nav-item">
               <Link
-                to="browse"
+                to="about"
                 className="nav-link text-uppercase text-light-black fs-22 fw-6 ls-1"
               >
                 About
